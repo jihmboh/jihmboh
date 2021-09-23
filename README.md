@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Hardware and Archery.
 - 🌱 I’m currently learning C++ and Java.
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach out to me on twitter @pepechu420.
+- 📫 You can reach out to me on twitter @jihmmothy.
 
 <!---
 jihmboh/jihmboh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
